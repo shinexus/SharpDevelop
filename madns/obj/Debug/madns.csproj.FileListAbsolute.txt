@@ -1,0 +1,8 @@
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\bin\Debug\madns.exe.config
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\bin\Debug\madns.exe
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\bin\Debug\madns.pdb
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\obj\Debug\madns.csprojResolveAssemblyReference.cache
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\obj\Debug\madns.MainForm.resources
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\obj\Debug\madns.csproj.GenerateResource.Cache
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\obj\Debug\madns.exe
+C:\Users\shinexus\Documents\SharpDevelop Projects\madns\obj\Debug\madns.pdb
