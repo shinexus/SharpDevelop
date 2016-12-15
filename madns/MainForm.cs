@@ -44,6 +44,17 @@ namespace madns
 		{
 	
 		}
+		void button3_Click(object sender, EventArgs e)
+		{
+			/*
+			 * 如何：从一个窗体显示另一个窗体 (Visual C#)
+			 * https://msdn.microsoft.com/zh-cn/library/ws1btzy8(v=vs.90).aspx
+			 * 
+			 */
+			
+			FinderEyeForm FindEye = new FinderEyeForm();
+			FindEye.Show();
+		}
 		
 	}
 }

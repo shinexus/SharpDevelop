@@ -45,12 +45,12 @@ namespace madns
 		private void InitializeComponent()
 		{
 			this.panel_basePanel = new System.Windows.Forms.Panel();
+			this.button3 = new System.Windows.Forms.Button();
 			this.button2 = new System.Windows.Forms.Button();
 			this.textBox2 = new System.Windows.Forms.TextBox();
 			this.button1 = new System.Windows.Forms.Button();
 			this.textBox1 = new System.Windows.Forms.TextBox();
 			this.openFileDialog_openImgFile = new System.Windows.Forms.OpenFileDialog();
-			this.button3 = new System.Windows.Forms.Button();
 			this.panel_basePanel.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -66,6 +66,16 @@ namespace madns
 			this.panel_basePanel.Name = "panel_basePanel";
 			this.panel_basePanel.Size = new System.Drawing.Size(284, 261);
 			this.panel_basePanel.TabIndex = 0;
+			// 
+			// button3
+			// 
+			this.button3.Location = new System.Drawing.Point(12, 227);
+			this.button3.Name = "button3";
+			this.button3.Size = new System.Drawing.Size(75, 23);
+			this.button3.TabIndex = 4;
+			this.button3.Text = "button3";
+			this.button3.UseVisualStyleBackColor = true;
+			this.button3.Click += new System.EventHandler(this.button3_Click);
 			// 
 			// button2
 			// 
@@ -105,15 +115,6 @@ namespace madns
 			this.openFileDialog_openImgFile.FileName = "openFileDialog1";
 			this.openFileDialog_openImgFile.Filter = "图片文件 (*.BMP;*.JPG;*.GIF;*.PNG)|*.BMP;*.JPG;*.GIF|All files (*.*)|*.* ";
 			this.openFileDialog_openImgFile.FileOk += new System.ComponentModel.CancelEventHandler(this.OpenFileDialog1FileOk);
-			// 
-			// button3
-			// 
-			this.button3.Location = new System.Drawing.Point(12, 227);
-			this.button3.Name = "button3";
-			this.button3.Size = new System.Drawing.Size(75, 23);
-			this.button3.TabIndex = 4;
-			this.button3.Text = "button3";
-			this.button3.UseVisualStyleBackColor = true;
 			// 
 			// MainForm
 			// 

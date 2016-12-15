@@ -14,3 +14,4 @@ C:\Users\shinexus\Documents\SharpDevelop Projects\CSharp\madns\obj\Debug\madns.M
 C:\Users\shinexus\Documents\SharpDevelop Projects\CSharp\madns\obj\Debug\madns.csproj.GenerateResource.Cache
 C:\Users\shinexus\Documents\SharpDevelop Projects\CSharp\madns\obj\Debug\madns.exe
 C:\Users\shinexus\Documents\SharpDevelop Projects\CSharp\madns\obj\Debug\madns.pdb
+C:\Users\shinexus\Documents\SharpDevelop Projects\CSharp\madns\obj\Debug\madns.FinderEyeForm.resources
